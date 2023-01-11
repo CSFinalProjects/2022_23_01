@@ -5,10 +5,12 @@
   1. Hadhil
   2. Jehad
   ```
-1. Hadhil
-2. Jehad
 
+---
+
+```
 ## Supervisor:
  Mr. Mukesh Madanan 
  Computer Sencie Department - CAAS - Dhofar Univeristy
  Ext. 7214
+```
