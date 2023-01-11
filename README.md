@@ -1,15 +1,14 @@
-# Course Code: CMPS 499 
+## Course Code: CMPS 499 
 ## Project Title: Facial emotion detection system
-## students:
+#### students:
   ```
   1. Hadhil
   2. Jehad
   ```
 
 ---
-
+#### Supervisor:
 ```
-## Supervisor:
  Mr. Mukesh Madanan 
  Computer Sencie Department - CAAS - Dhofar Univeristy
  Ext. 7214
